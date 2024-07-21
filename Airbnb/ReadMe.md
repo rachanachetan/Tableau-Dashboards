@@ -2,8 +2,7 @@
 ### Synopsis: This dashboard is designed to help tourists book their best vacation for the best price. Featuring Airbnb listings and powered by Tableau, it offers visual insights into booking trends, property details, and host performance so that the user is able to make a decision of choosing the best vacation rental unit for the best price at an ideal location.
 
 ### List of tools used:
-Google Colab: Python 3, Runtime - GPU for data cleaning
-Tableau
+Google Colab: Python 3, Runtime - GPU for data cleaning & Tableau
 
 ### About Dataset
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in New York City
