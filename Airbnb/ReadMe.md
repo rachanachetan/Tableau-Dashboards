@@ -23,7 +23,7 @@ The cleaned data is saved as a .csv file [here](/Airbnb_Cleaned.csv) and used as
 <p align="center">
   <img src="Airbnb_Dashboard.png">
 </p>
-Attached above is a screenshot of the built dashboard. You can download the Tableau [workbook](/AirbnbDashboard_Final.twbx) or find it hosted on [Tableau Public](https://public.tableau.com/app/profile/rachana.chetan/viz/AirbnbDashboard_Final/Dashboard1)
+Attached above is a screenshot of the built dashboard. You can download the Tableau [workbook](/AirbnbDashboard_Final.twbx) or find it hosted on Tableau Public: https://public.tableau.com/app/profile/rachana.chetan/viz/AirbnbDashboard_Final/Dashboard1
 
 
 
