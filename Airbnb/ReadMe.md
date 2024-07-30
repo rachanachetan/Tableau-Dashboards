@@ -4,7 +4,7 @@
 ### List of tools used:
 Google Colab: Python 3, Runtime - GPU for data cleaning & Tableau
 
-### About Dataset
+### About the Dataset
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in New York City
 The following Airbnb activity is included in this New York dataset:
 Listings, including full descriptions and average review score Reviews, including unique id for each reviewer and detailed comments Calendar, including listing id and the price and availability for that day.
@@ -18,11 +18,12 @@ Step 4: Remove unwanted columns
 
 The cleaned data is saved as a .csv file [here](/Airbnb_Cleaned.csv) and used as the data source for the dashboard built on Tableau.
 
-### Resultant tableau Dashboard 
+### Resultant Tableau Dashboard 
 <p align="center">
   <img src="Airbnb_Dashboard.png">
 </p>
-Attached above is a screenshot of the built dashboard. You can download the Tableau [workbook](/AirbnbDashboard_Final.twbx) or find it hosted on Tableau Public: https://public.tableau.com/app/profile/rachana.chetan/viz/AirbnbDashboard_Final/Dashboard1
+
+Attached above is a screenshot of the built dashboard. You can download the Tableau [workbook](https://github.com/rachanachetan/Tableau-Dashboards/blob/main/Airbnb/AirbnbDashboard_Final.twbx) or find it hosted on Tableau Public: https://public.tableau.com/app/profile/rachana.chetan/viz/AirbnbDashboard_Final/Dashboard1
 
 
 
