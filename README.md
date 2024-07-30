@@ -11,6 +11,7 @@ Tableau & Google Colab: Python 3, Runtime - GPU for data cleaning
 <p align="center">
   <img src="/Airbnb/Airbnb_Dashboard.png">
 </p>
+
 Attached above is a screenshot of the built dashboard. You can download the Tableau [workbook](https://github.com/rachanachetan/Tableau-Dashboards/blob/main/Airbnb/AirbnbDashboard_Final.twbx) or find it hosted on Tableau Public: https://public.tableau.com/app/profile/rachana.chetan/viz/AirbnbDashboard_Final/Dashboard1
 
 
