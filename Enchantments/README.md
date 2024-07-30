@@ -1,7 +1,7 @@
-# Enchantments permit lottery prediction 2024
+# Enchantments Permit Lottery Prediction 2024
 
 ### Synopsis: 
-The team was tasked to provide analytics consulting services for an adventure outfitting company in Seattle called Northwest Treks, who seeked to secure a 4 day backpacking permit into the Enchantments in 2022 to create a promotional video with their team in the pristine alpine lakes region. Based on historical data, this interactive story board gives NWT reccommendations on which zone, day and group size to choose in order to win the lottery!
+The team was tasked to provide analytics consulting services for an adventure outfitting company in Seattle called Northwest Treks, who seeked to secure a 4 day backpacking permit into the Enchantments in 2022 to create a promotional video with their team in the pristine alpine lakes region. Based on historical data, this interactive story board gives NWT recommendations on which zone, day and group size to choose in order to win the lottery!
 
 ### The Challenge
 
@@ -11,7 +11,7 @@ Each preference allows them to specify the following choices:
 - The area of the Enchantments to visit
 - The number of people in the party
 
-Our team had to provide reccomendations for the above mentioned criteria and to answer these questions stated below: 
+Our team had to provide recomendations for the above mentioned criteria and to answer the questions stated below: 
 
 **Question 1.** What are the overall chances of winning the lottery based on 2021 results?
 
@@ -20,14 +20,14 @@ Our team had to provide reccomendations for the above mentioned criteria and to 
 **Question 3.** If they want to be in the Core Zone of the Enchantments on days when the average historical temperature is over 52°F and the amount of rain is less than 0.03” on average, what date would you recommend they pick in order to increase their chances of having their application accepted?
 
 
-### List of tools used:
-Tableau for Visualization & Excel for data cleaning
+### Tools Used:
+Tableau for Visualization & MS Excel for data cleaning
 
 
-### Data cleaning:
+### Data Cleaning:
 The steps followed for data cleaning are as follows: 
 
-Step 1: Combining 2020 and 2021 lottery statatistics info from https://www.fs.usda.gov/detail/okawen/passes-permits/recreation/?cid=fsbdev3_053607
+Step 1: Combining 2020 and 2021 lottery statatistics data from https://www.fs.usda.gov/detail/okawen/passes-permits/recreation/?cid=fsbdev3_053607
 
 Step 2: Grouping and renaming zone names to retain only 5 final zones: Colchuck Zone, Core Enchantments Zone, Eightmile Caroline Zone, Snow Zone, Stuart Zone
 
@@ -39,7 +39,7 @@ The cleaned data is saved as two .xlsx files containing weather data from 1981-2
 
 ### About the Dataset
 
-#### Lottery statistics data (For 2020 and 2021):
+#### Lottery Statistics Data (For 2020 and 2021):
 
 Here is an overview of the permit applications in 2021 and 2022
 
