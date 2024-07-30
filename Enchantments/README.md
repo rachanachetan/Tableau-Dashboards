@@ -72,7 +72,10 @@ The relationship between the success rate and the weather was analyzed to draw t
   <img src="/Enchantments/OverallRecco.png">
 </p>
 
-#### What NWT should pick in order to increase their chances of having their application accepted for the specific conditions of 1. Choosing the Core Zone of the Enchantments, 2. Average historical temperature being over 52°F and 3. The amount of rain being less than 0.03” on average:
+#### What NWT should pick in order to increase their chances of having their application accepted for the specific conditions of 
+#### 1. Choosing the Core Zone of the Enchantments
+#### 2. Average historical temperature being over 52°F and
+#### 3. The amount of rain being less than 0.03” on average:
 
 <p align="center">
   <img src="/Enchantments/ReccoforProblemStmt.png">
