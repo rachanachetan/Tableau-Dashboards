@@ -66,7 +66,7 @@ The relationship between the success rate and the weather was analyzed to draw t
 
 ### Result 
 
-#### Overall chances of winning the lottery based on past results and specific conditions to keep in mind are:
+#### Based on our analysis, the overall chances of winning the lottery based on past results and specific conditions to keep in mind are: to choose Eightmile/Caroline zone as choice number 1, and to go on a thursday in october with a maximum group size of 4.
 
 <p align="center">
   <img src="/Enchantments/OverallRecco.png">
@@ -75,7 +75,9 @@ The relationship between the success rate and the weather was analyzed to draw t
 #### What NWT should pick in order to increase their chances of having their application accepted for the specific conditions of 
 #### 1. Choosing the Core Zone of the Enchantments
 #### 2. Average historical temperature being over 52°F and
-#### 3. The amount of rain being less than 0.03” on average:
+#### 3. The amount of rain being less than 0.03” on average
+
+### The recommended dates for these specific conditions are: June 2, 9, 16, 23, 30!
 
 <p align="center">
   <img src="/Enchantments/ReccoforProblemStmt.png">
